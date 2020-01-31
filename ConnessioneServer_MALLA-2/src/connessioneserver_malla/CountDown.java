@@ -9,8 +9,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
- * @author Malla 5BINF
+ * 
+ * @author Malla-5BINF 
  */
 public class CountDown implements Runnable{
 	private int time;
